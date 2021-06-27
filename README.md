@@ -1,4 +1,4 @@
-!Selam Ben Who (Türkçe çevirince ismin güzelliği kaçıyor)
+!Selam Ben Who n/
 5 Yıldır discord kullanıyorum ve 3 yıldır yazılımla uğraşıyorum web site ler yapıp satıyordum önceleri.
 Sonra kolay yollarda web site yapmak için siteler çıkınca işime taş koyuldu.
 Okuduğum bölümle ilgili bir iş yapıyordum video montaj editörlük kameramanlık corona virüs yüzünden işden ayrıldım.

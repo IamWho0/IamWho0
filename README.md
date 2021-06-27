@@ -1,17 +1,252 @@
-!Selam Ben Who ,
-5 Yıldır discord kullanıyorum ve 3 yıldır yazılımla uğraşıyorum web site ler yapıp satıyordum önceleri.
-Sonra kolay yollarda web site yapmak için siteler çıkınca işime taş koyuldu.
-Okuduğum bölümle ilgili bir iş yapıyordum video montaj editörlük kameramanlık corona virüs yüzünden işden ayrıldım.
-Geliştirmek ve yapmak istediğim ülkemizi ileriye taşıyacak bir proje var aklımda ve neredeyse yazılımı bitmek üzere.
-Bunu yapmak içinde yüklü bir mevlaya ihtiyacımız var bu yüzden node.js üzerine çalışmalar yapmaya başladım.
-Discord bot üzerinde geliştirdim kendimi ve yaptığım satışlar üzerinden bu güzel proje için banka hesabımda para biriktiriyorum.
-Sizlerde discord sunucularınızda güvenli kaliteli botlar görmek için bana ulaşabilirsiniz.
-Discord adımı alt tarafa bırakıyorum bot fiyat bilgisi için bana herzaman bu isimle ulaşa bilirsiniz.
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Developer &mdash;Göktuğ Erdem</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
 
-<h3><a id="user-content-my-personal-accounts" class="anchor" aria-hidden="true" href="#my-personal-accounts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kişisel hesaplarım:</font></font></h3>
-<p align="left">
-<a href="https://discord.com/users/858473848844058654" rel="nofollow"><img src="https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://open.spotify.com/user/zo3yot2xri8bommg5yzyu6hcl?si=9331adf5626141eb" rel="nofollow"><img src="https://camo.githubusercontent.com/8b36f195a47af7355c39f1aeb80a128d1ed7522b1ed32f726bfa27f12ff54fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792532302d3165643736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" style="max-width:100%;"></a>
-</p>
 
-<a href="https://open.spotify.com/playlist/54UpsGv8Gq7emXCXtEdLN5?si=601ca30bb3de426c" target="_blank">    <img src="https://i.scdn.co/image/ab67706c0000bebba636c462e4c7741cd6d6fe13" alt="Barış Akarsu Albüm" width="400" height="400"></a>
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">	
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image:url(images/cover_bg_3.jpg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<div class="display-t js-fullheight">
+						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
+							<div class="profile-thumb" style="background: url(images/user-3.jpg);"></div>
+							<h1><span>Göktuğ Erdem</span></h1>
+							<h3><span>Developer</span></h3>
+							<p>
+								<ul class="fh5co-social-icons">
+									<li><a href="https://www.instagram.com/aikos.jpg/?hl=tr"target="_blank" ><i class="icon-instagram"></i></a></li>
+									<li><a href="https://twitter.com/aikosjpg"target="_blank" ><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://www.facebook.com/groups/1135307896935706"target="_blank" ><i class="icon-facebook2"></i></a></li>
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div id="fh5co-about" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Hakkımda</h2>
+					<h3>Uygun fiyatlı web siteleri ve oyun sunucuları yapmak için burdayım iletişim adreslerimizden bize ulaşabilirisiniz</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<ul class="info">
+						<li><span class="first-block">İsim Soyisim:</span><span class="second-block">Göktuğ Erdem</span></li>
+						<li><span class="first-block">Email:</span><span class="second-block">eklenecek</span></li>
+						<li><span class="first-block">Website:</span><span class="second-block">eklenecek</span></li>
+					</ul>
+				</div>
+				<div class="col-md-8">
+					<h2>Sosyal Medya Hesaplarımız</h2>
+					
+					<p>
+						<ul class="fh5co-social-icons">
+                                    <li><a href="https://www.instagram.com/aikos.jpg/?hl=tr"target="_blank" ><i class="icon-instagram"></i></a></li>
+									<li><a href="https://twitter.com/aikosjpg"target="_blank" ><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://www.facebook.com/groups/1135307896935706"target="_blank" ><i class="icon-facebook2"></i></a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="fh5co-features" class="animate-box">
+		<div class="container">
+			<div class="services-padding">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+						<h2>Hizmetler</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-paintbrush"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Web Tasarım</h3>
+								<p>Kişisel Blog Siteleri Yapıyorum ,Forum Siteleri Yapıyorum.</p>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-genius"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Server</h3>
+								<p>Oyun Serverleri Yapıyoruz Mta ,Arma 3 gibi oyunlarda Hızlı Ve Kaliteli Serverler.</p>
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-chat"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Discord</h3>
+								<p>Discord Üzerinden Sunucu Ve Botları Yapıyorum</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="fh5co-skills" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Skills</h2>
+				</div>
+			</div>
+			<div class="row row-pb-md">
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="95"><span><strong>HTML5</strong>95%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="93"><span><strong>CSS3</strong>93%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>jQuery</strong>55%</span></div>
+				</div>
+
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="89"><span><strong>PHP</strong>65%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="85"><span><strong>MySQL</strong>70%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>AngularJS</strong>50%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="85"><span><strong>Ruby</strong>65%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>Java</strong>95%</span></div>
+				</div>
+			</div>
+			
+
+
+	<div id="fh5co-work" class="fh5co-bg-dark">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Sponsored By</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="./welcome.html" target="_blank" class="work" style="background-image: url(./images/tag.png);">
+						<div class="desc">
+							<h3>Stargate</h3>
+							<span>Kendi Discord Sunucum</span>
+						</div>
+					</a>
+				</div>
+
+
+				</div>
+			</div>
+		</div>
+	
+
+	<div id="fh5co-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p>&copy; 2021  <br>Designed by Göktuğ Erdem</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Easy PieChart -->
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<!-- Google Map -->
+	
+	
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+

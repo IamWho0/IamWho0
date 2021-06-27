@@ -11,4 +11,8 @@ Discord adımı alt tarafa bırakıyorum bot fiyat bilgisi için bana herzaman b
 Discord Name :who am I#0008
 ----------------------------------------------------------------------------------------------------------------------
 **
-https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363
+Bildiğim Diller
+![css](https://user-images.githubusercontent.com/86554271/123542019-fe135480-d74f-11eb-8ee1-97d6516cb02e.png)
+![html](https://user-images.githubusercontent.com/86554271/123542020-ffdd1800-d74f-11eb-868b-97f6c0f671e3.png)
+![javascript](https://user-images.githubusercontent.com/86554271/123542021-010e4500-d750-11eb-80d2-33f77540c17b.png)
+![nodejs](https://user-images.githubusercontent.com/86554271/123542023-023f7200-d750-11eb-8665-bbe5dfe3dab0.png)

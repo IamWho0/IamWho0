@@ -1,5 +1,5 @@
 !Selam Ben Who ,
-5 Yıldır discord kullanıyorum ve 3 yıldır yazılımla uğraşıyorum web site ler yapıp satıyordum önceleri.
+3 Yıldır discord kullanıyorum ve 5 yıldır yazılımla uğraşıyorum web site ler yapıp satıyordum önceleri.
 Sonra kolay yollarda web site yapmak için siteler çıkınca işime taş koyuldu.
 Okuduğum bölümle ilgili bir iş yapıyordum video montaj editörlük kameramanlık corona virüs yüzünden işden ayrıldım.
 Geliştirmek ve yapmak istediğim ülkemizi ileriye taşıyacak bir proje var aklımda ve neredeyse yazılımı bitmek üzere.

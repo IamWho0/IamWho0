@@ -13,7 +13,7 @@ Discord adımı alt tarafa bırakıyorum bot fiyat bilgisi için bana herzaman b
 <a href="https://discord.com/users/858473848844058654" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
-<a href="https://open.spotify.com/playlist/54UpsGv8Gq7emXCXtEdLN5?si=601ca30bb3de426c" target="_blank">    <img src="https://i.scdn.co/image/ab67706c0000bebba636c462e4c7741cd6d6fe13" alt="Barış Akarsu Albüm" width="400" height="400"></a>
+<a href="https://open.spotify.com/user/zo3yot2xri8bommg5yzyu6hcl?si=2c20101ce93046c8" target="_blank">    <img src="https://user-images.githubusercontent.com/86554271/123544163-a6c6b180-d75a-11eb-9419-4cdf2408a34f.png" alt="Who Is Spotify Profile" width="400" height="400"></a>
 
 
 
